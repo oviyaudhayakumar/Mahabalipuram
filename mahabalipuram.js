@@ -1,92 +1,92 @@
 const questions = [
     {
         question: " ___ Hospital & Research Centre is a general hospital located near the Thirupuram temple complex and is also run by the ‘Sri Narayani Peedam’ Charitable Trust.",
-        option A: "The Narayani",
-        option B: "The Sri Narayani",
-        option C: "The Sri",
-        option D: "None of the above",
-        correctOption: " option B"
+        optionA: "The Narayani",
+        optionB: "The Sri Narayani",
+        optionC: "The Sri",
+        optionD: "None of the above",
+        correctOption: "optionB"
     },
 
     {
         question: "The temple is located on ____of land and has been constructed by the Vellore-based charitable trust",
-        option A: "100 acres ",
-        option B: "101 acres",
-        option C: "110 acres ",
-        option D: "120 acres ",
-        correctOption: "option A"
+        optionA: "100 acres ",
+        optionB: "101 acres",
+        optionC: "110 acres ",
+        optionD: "120 acres ",
+        correctOption: "optionA"
     },
 
     {
         question: "Sripuram’s design features a star-shaped path (Sri chakra), positioned in the middle of the lush green landscape, with a length of over ___ ",
-        option A: "2.9 km.",
-        option B: "2.8 km.",
-        option C: "1.9 km.",
-        option D: "1.8 km.",
-        correctOption: "option D"
+        optionA: "2.9 km.",
+        optionB: "2.8 km.",
+        optionC: "1.9 km.",
+        optionD: "1.8 km.",
+        correctOption: "optionD"
     },
 
     {
         question: "Golden Temple Vellore complex inside the Thirupuram spiritual park is situated at the __ of a small range of green hills at Thirumalaikodi (or simply Malaikodi) Vellore in Tamil Nadu, India",
-        option A: "Tail",
-        option B: "Head",
-        option C: "Foot",
-        option D: "Top",
-        correctOption: "option C"
+        optionA: "Tail",
+        optionB: "Head",
+        optionC: "Foot",
+        optionD: "Top",
+        correctOption: "optionC"
     },
 
     {
         question: "Every single detail in the temple art has significance from the ___",
-        option A: "Christains",
-        option B: "Muslims",
-        option C: "Hindus",
-        option D: "Vedas",
-        correctOption: "option D"
+        optionA: "Christains",
+        optionB: "Muslims",
+        optionC: "Hindus",
+        optionD: "Vedas",
+        correctOption: "optionD"
     },
 
     {
         question: "The salient feature of ‘Thirupuram’ is the Lakshmi Narayani temple whose __ is covered with pure gold, housing the deity Sri Lakshmi Narayani (female consort/wife of Narayana).",
-        option A: "Vimanam",
-        option B: "Ardha Mandapam",
-        option C: "Both A & B",
-        option D: "None of the above",
-        correctOption: "option C"
+        optionA: "Vimanam",
+        optionB: "Ardha Mandapam",
+        optionC: "Both A & B",
+        optionD: "None of the above",
+        correctOption: "optionC"
     },
 
     {
         question: "The words “Golden Temple” remind us of the magnificent Golden Temple of __, in the northern part of India.",
-        option A: "Jammu",
-        option B: "Amritsar",
-        option C: "Mandi",
-        option D: "Chamba",
-        correctOption: "option B"
+        optionA: "Jammu",
+        optionB: "Amritsar",
+        optionC: "Mandi",
+        optionD: "Chamba",
+        correctOption: "optionB"
     },
 
     {
         question: "As one walks along this ‘__path’ to reach the temple in the middle, one can also read various spiritual messages – such as the gift of the human birth itself, and the value of spirituality – along the way.",
-        option A: "Star",
-        option B: "Circle",
-        option C: "Square",
-        option D: "Curve",
-        correctOption: "option A"
+        optionA: "Star",
+        optionB: "Circle",
+        optionC: "Square",
+        optionD: "Curve",
+        correctOption: "optionA"
     },
 
     {
         question: "___ Ghee Lamps were lit in front of Sri Srinivasa Perumal Deity",
-        option A: "108",
-        option B: "1009",
-        option C: "1007",
-        option D: "1008",
-        correctOption: "option D"
+        optionA: "108",
+        optionB: "1009",
+        optionC: "1007",
+        optionD: "1008",
+        correctOption: "optionD"
     },
 
     {
         question: "The southern India’s ___ temple holds the crown of world’s largest Golden Temple.",
-        option A: "Sri Narayani",
-        option B: "Lakshmi Narayana",
-        option C: "Lakshmi Sri Narayani",
-        option D: "Sri Lakshmi Narayani",
-        correctOption: "option D"
+        optionA: "Sri Narayani",
+        optionB: "Lakshmi Narayana",
+        optionC: "Lakshmi Sri Narayani",
+        optionD: "Sri Lakshmi Narayani",
+        correctOption: "optionD"
     },
 
 
